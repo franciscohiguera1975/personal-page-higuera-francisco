@@ -11,3 +11,5 @@ Para visualizar:
 3. Para editar, modifica index.html y styles.css.
 
 La tipografía se carga desde Google Fonts; si no hay conexión, se usan fuentes de respaldo.
+
+
